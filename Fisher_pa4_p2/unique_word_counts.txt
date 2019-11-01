@@ -1,0 +1,5 @@
+cat: 3 Occurrences
+bird: 2 Occurrences
+dog: 6 Occurrences
+lizard: 1 Occurrences
+bunny: 2 Occurrences

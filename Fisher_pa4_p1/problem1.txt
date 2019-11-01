@@ -1,0 +1,6 @@
+cat dog zebra
+                                    kangaroo
+    bird    cat
+    bird              peacock
+ dog
+ bird            cat        zebra         tiger   dog

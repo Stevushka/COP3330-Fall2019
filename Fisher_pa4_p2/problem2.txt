@@ -1,0 +1,11 @@
+dog cat lizard
+
+dog bird cat
+
+bunny
+
+dog cat bunny
+
+dog bird
+
+dog dog

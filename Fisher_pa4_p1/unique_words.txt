@@ -1,0 +1,7 @@
+zebra
+cat
+bird
+kangaroo
+peacock
+tiger
+dog
